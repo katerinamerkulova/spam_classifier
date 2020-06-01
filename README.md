@@ -31,4 +31,4 @@ _Authors_:
     2. `jupyter lab` for _Jupyter Lab_
     
     
-3. Open _spam.ipynb_ and execute cells there
+3. Open `spam.ipynb` and execute cells there
